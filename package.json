@@ -5,6 +5,9 @@
   "author": "fulgor35 <104467382+fulgor35@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "-": "^0.0.1",
     "D": "^1.0.0",
